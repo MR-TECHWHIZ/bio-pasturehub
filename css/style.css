@@ -517,6 +517,7 @@ nav a:hover {
   border-bottom: 2px solid #b9f6ca;
   display: inline-block;
   padding-bottom: 3px;
+  color:#0d1b2a;
 }
 
 .model-card p {
@@ -1342,4 +1343,5 @@ nav#nav-menu {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
 
